@@ -1,6 +1,9 @@
 {
     "java.project.sourcePaths": [
         "MyJavaPractices/Dhivya/src",
-        "basicsjava/src"
+        "basicsjava/src",
+        "basicsjava",
+        ".",
+        "MyJavaPractices/Dhivya/src/sample assignsments"
     ]
 }

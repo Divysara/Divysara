@@ -4,14 +4,14 @@ class student1{
     public int age=20;
     public String name ="Dhivya";
 }
-  class student2{
+   class student2{
     public int age1;
    public String name1;
-    public void getinput()
+     void getinput()
     {
-        Scanner getData = new Scanner(System.in);
+    Scanner getData = new Scanner(System.in);
     System.out.println("Enter the name:");
-     String name1 = getData.next();
+    String name1 = getData.next();
     Scanner getage = new Scanner(System.in);
     System.out.println("Enter the age:");
     age1 = getage.nextInt();
