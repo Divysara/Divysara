@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PrimeNo",
+            "request": "launch",
+            "mainClass": "InterviewQuestion.PrimeNo",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNumbers",
+            "request": "launch",
+            "mainClass": "InterviewQuestion.SumOfNumbers",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrong",
+            "request": "launch",
+            "mainClass": "InterviewQuestion.Armstrong",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeapYear",
+            "request": "launch",
+            "mainClass": "InterviewQuestion.LeapYear",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Monkey",
+            "request": "launch",
+            "mainClass": "InterviewQuestion.Monkey",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch WashinMachine",
+            "request": "launch",
+            "mainClass": "InterviewQuestion.WashinMachine",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch JarCandy",
+            "request": "launch",
+            "mainClass": "InterviewQuestion.JarCandy",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
