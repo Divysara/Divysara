@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch WallPainting",
+            "request": "launch",
+            "mainClass": "InterviewQuestion.WallPainting",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
             "name": "Launch PrimeNo",
             "request": "launch",
             "mainClass": "InterviewQuestion.PrimeNo",
