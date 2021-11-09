@@ -6,6 +6,223 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayListDemo",
+            "request": "launch",
+            "mainClass": "Dhivya.src.collections.ArrayListDemo",
+            "projectName": "MyJavaPractices_dc5c5ec3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo",
+            "request": "launch",
+            "mainClass": "collections.ArrayListDemo",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Duplicate",
+            "request": "launch",
+            "mainClass": "ArraysFolder.Duplicate",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "collections.Demo",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch sa",
+            "request": "launch",
+            "mainClass": "Stringsfolder.sa",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDemo",
+            "request": "launch",
+            "mainClass": "sampleassignsments.ArrayDemo",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch multidimention_array",
+            "request": "launch",
+            "mainClass": "sampleassignsments.multidimention_array",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "sampleassignsments.A",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch exception_handling",
+            "request": "launch",
+            "mainClass": "sampleassignsments.exception_handling",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Add2nos$exception_handling",
+            "request": "launch",
+            "mainClass": "sampleassignsments.Add2nos$exception_handling",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Derived",
+            "request": "launch",
+            "mainClass": "TypeCasting.Derived",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimitiveTypecasting",
+            "request": "launch",
+            "mainClass": "TypeCasting.PrimitiveTypecasting",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cat",
+            "request": "launch",
+            "mainClass": "TypeCasting.Cat",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Overriding",
+            "request": "launch",
+            "mainClass": "Exception.Overriding",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "Exception.Demo",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Throw",
+            "request": "launch",
+            "mainClass": "Exception.Throw",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberFormat",
+            "request": "launch",
+            "mainClass": "Exception.NumberFormat",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChainedException",
+            "request": "launch",
+            "mainClass": "Exception.ChainedException",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignmnt",
+            "request": "launch",
+            "mainClass": "Exception.Assignmnt",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThrowSample",
+            "request": "launch",
+            "mainClass": "Exception.ThrowSample",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "Exception.Sample",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiplication",
+            "request": "launch",
+            "mainClass": "ArraysFolder.Multiplication",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jagged",
+            "request": "launch",
+            "mainClass": "ArraysFolder.Jagged",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Merging",
+            "request": "launch",
+            "mainClass": "ArraysFolder.Merging",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrix",
+            "request": "launch",
+            "mainClass": "ArraysFolder.Matrix",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Frequency",
+            "request": "launch",
+            "mainClass": "ArraysFolder.Frequency",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch AssignmentProblems",
+            "request": "launch",
+            "mainClass": "ArraysFolder.AssignmentProblems",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conversion",
+            "request": "launch",
+            "mainClass": "ArraysFolder.Conversion",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindValue",
+            "request": "launch",
+            "mainClass": "ArraysFolder.FindValue",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch CopyOfArray",
+            "request": "launch",
+            "mainClass": "ArraysFolder.CopyOfArray",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
+            "name": "Launch PassArrayParameter",
+            "request": "launch",
+            "mainClass": "ArraysFolder.PassArrayParameter",
+            "projectName": "Divysara_ec6d1ea8"
+        },
+        {
+            "type": "java",
             "name": "Launch CountWords",
             "request": "launch",
             "mainClass": "Stringsfolder.CountWords",
